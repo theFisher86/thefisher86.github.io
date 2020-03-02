@@ -1,0 +1,25 @@
+table {
+  border-style: dotted;
+  border-color: red;
+  padding: 8px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-family: serif;
+  background-color: #111;
+  color: #fff;
+}
+
+h2 {
+  font-family: sans-serif;
+  background-color: #111;
+  color: #fee;
+}
+p {
+  font-family: "comic sans";
+}
